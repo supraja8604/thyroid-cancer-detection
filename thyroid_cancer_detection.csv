@@ -1,0 +1,7 @@
+age,sex,symptoms,tumor_size,thyroid_function,test_result,treatment_options
+45,M,"weight loss, fatigue, neck swelling",2.3,1.1,0,"surgery, radioactive iodine therapy"
+35,F,"hoarseness, difficulty swallowing",1.8,0.9,0,"surgery, external beam radiation therapy"
+52,M,"neck pain, enlarged lymph nodes",3.5,1.2,1,"surgery, chemotherapy"
+41,F,"fatigue, hair loss, weight gain",2.1,1.0,0,"surgery, thyroid hormone replacement"
+60,F,"difficulty breathing, coughing",3.9,1.3,1,"surgery, targeted therapy"
+48,M,"rapid heartbeat, anxiety",2.7,1.1,0,"surgery, radioactive iodine therapy"
